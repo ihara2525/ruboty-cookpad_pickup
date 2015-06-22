@@ -1,4 +1,4 @@
-# Ruboty::Trello
+# Ruboty::CookpadPickup
 
 Ruboty plugin for getting today's pickup recipe from [COOKPAD](http://cookpad.com/).
 
@@ -26,7 +26,7 @@ Or install it yourself as:
 
 ## Contributing
 
-1. Fork it ( https://github.com/bitjourney/ruboty-trello/fork )
+1. Fork it ( https://github.com/bitjourney/ruboty-cookpad_pickup/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
